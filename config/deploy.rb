@@ -18,4 +18,3 @@ set :ssh_options, {
    user: 'YOUR_USERNAME',
    password: 'YOUR_PASSWORD'
 }
-~          
