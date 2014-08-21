@@ -1,0 +1,1 @@
+role :app, %w{YOUR_USERNAME@YOUR_IP}
